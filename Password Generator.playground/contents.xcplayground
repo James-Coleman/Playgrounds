@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Untitled Page'/>
+        <page name='QuickBrownPassword'/>
+        <page name='Pronouns'/>
+        <page name='LeetSpeak'/>
+        <page name='Permutations'/>
+        <page name='Manual permutations'/>
+    </pages>
+</playground>

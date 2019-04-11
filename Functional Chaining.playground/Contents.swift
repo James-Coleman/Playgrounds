@@ -56,3 +56,23 @@ extension Int {
     .add(2)
     .subtract(4)
     .multiply(3)
+
+extension MyNumber {
+    var addOneComputedVariable: MyNumber {
+        self.number += 1
+        return self
+    }
+}
+
+MyNumber(number: 5)
+    .addOneComputedVariable
+
+extension Int {
+    var addOne: Int {
+        return self + 1
+    }
+}
+
+1
+    .addOne
+    .addOne
